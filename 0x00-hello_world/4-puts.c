@@ -1,6 +1,6 @@
 /* A program that prints programming is like building a multilingual puzzle. */
 #include <stdio.h>
-main()
+int main()
 {
 	char Script[] = "Programming is like building a multilingual puzzle";
 
