@@ -1,7 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - Prints the number stored in the variable n */
+/**
+ * main - Prints the number stored in the variable 
+ *	n as positive or negative
+ */
 
 /* Return: Must always be 0 */
 int main(void)
