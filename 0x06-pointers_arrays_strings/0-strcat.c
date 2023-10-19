@@ -2,10 +2,10 @@
 
 /**
  * _strcat - A funtion that concatenates two strings
- * *dest: input value(s)
- * *src: input value(s)
+ * @dest: input value(s)
+ * @src: input value(s)
  *
- * return: Void
+ * Return: Void
  *
  */
 
