@@ -4,9 +4,11 @@
 /**
  * main - Prints the number stored in the variable 
  *	n as positive or negative
+ * return: Always 0 (Successful)
  */
 
-/* Return: Must always be 0 */
+/* Return: Always 0 (Successful) */
+
 int main(void)
 {
 	int n;
