@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+#include <stdio.h>
+/* main - Prints the number stored in the variable n */
 
-/* betty style doc for function main  goes there */
+/* Return: Must always be 0 */
 int main(void)
 {
 	int n;
