@@ -2,12 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Prints the number stored in the variable 
+ * main - Prints the number stored in the variable
  *	n as positive or negative
- * return: Always 0 (Successful)
+ * return: Always 0 (Success)
  */
-
-/* Return: Always 0 (Successful) */
 
 int main(void)
 {
